@@ -18,6 +18,7 @@ O objetivo deste projeto foi aprofundar meus conhecimentos em **estruturação d
 
 ### 🛠️ Tecnologias utilizadas:
 - HTML5
+- CSS
 
 Este projeto representa um passo importante na minha evolução em Front-End, consolidando conceitos fundamentais e reforçando minha base em desenvolvimento web.
 
